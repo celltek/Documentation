@@ -30,7 +30,7 @@ RESTful-API for Dedicated Serverfiles, Mods and Addons generates your informatio
 **!! NO SUPPORT FOR DEBIAN OR OTHER LINUX DISTRIBUTIONEN !!**
 
 **Dependencies**
-- OS: Ubuntu 24.04.1 LTS (Noble Numbat)
+- OS: Ubuntu 24.04.2 LTS (Noble Numbat) [download iso](https://mirror.de.leaseweb.net/ubuntu-releases/)
 - [Shell Script Compiler](https://github.com/neurobin/shc)
 - [jq](https://stedolan.github.io/jq/)
 - [cURL](https://wiki.ubuntuusers.de/cURL/)
