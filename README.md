@@ -18,7 +18,7 @@ RESTful-API for Dedicated Serverfiles, Mods and Addons generates your informatio
 - PHP version 7.4
 - PHP-Extension cURL
 - PHP-Extension Zip 
-- PHP-Extension [ionCube Loader 14.4.0](https://ioncube.com/lw) stable
+- PHP-Extension [ionCube Loader 15.0.0](https://ioncube.com/lw) stable
 - HTTPS support (Free: [Let's Encrpyt free certificate](https://letsencrypt.org/de/) via [Certbot](https://certbot.eff.org/) or [Plesk Extension](https://www.plesk.com/extensions/letsencrypt/))
 
 ## Recommendation TekBASE
@@ -30,7 +30,7 @@ RESTful-API for Dedicated Serverfiles, Mods and Addons generates your informatio
 **!! NO SUPPORT FOR DEBIAN OR OTHER LINUX DISTRIBUTIONEN !!**
 
 **Dependencies**
-- OS: Ubuntu 24.04.2 LTS (Noble Numbat) [download iso](https://mirror.de.leaseweb.net/ubuntu-releases/)
+- OS: Ubuntu 24.04.3 LTS (Noble Numbat) [download iso](https://mirror.de.leaseweb.net/ubuntu-releases/)
 - [Shell Script Compiler](https://github.com/neurobin/shc)
 - [jq](https://stedolan.github.io/jq/)
 - [cURL](https://wiki.ubuntuusers.de/cURL/)
