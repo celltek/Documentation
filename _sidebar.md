@@ -2,6 +2,7 @@
 
 - Getting started
   - [Quick start]()
+  - [Speed Insights Guide](speed_insights_guide.md)
 
 - Troubleshooting
   - [Extensions](ts_extensions.md)
