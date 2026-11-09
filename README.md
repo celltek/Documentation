@@ -9,7 +9,7 @@ The REST API for dedicated server files, mods, and add-ons generates information
 
 - Simple and lightweight
 - Support for Linux Dedicated Gameserver
-- Useful informationen
+- Useful information
 - Stay smart up-to-date
 - Completely encrypted
 
@@ -20,7 +20,7 @@ The REST API for dedicated server files, mods, and add-ons generates information
 - PHP-Extension cURL
 - PHP-Extension Zip 
 - PHP-Extension [ionCube Loader 15.5.0](https://ioncube.com/lw) stable
-- HTTPS support (Free: [Let's Encrpyt free certificate](https://letsencrypt.org/de/) via [Certbot](https://certbot.eff.org/) or [Plesk Extension](https://www.plesk.com/extensions/letsencrypt/))
+- HTTPS support (Free: [Let's Encrypt certificate](https://letsencrypt.org/de/) via [Certbot](https://certbot.eff.org/) or [Plesk Extension](https://www.plesk.com/extensions/letsencrypt/))
 
 ## Recommendation TekBASE
 
@@ -45,7 +45,7 @@ sudo apt install software-properties-common
 sudo dpkg --add-architecture i386
 ```
 
-**Dont forget to update, if you add multiverse before installing**
+**Don't forget to update, if you add multiverse before installing**
 ```ssh
 sudo apt update
 ```
