@@ -1,8 +1,9 @@
 ## Quick start
 
+
 ## What it is
 
-RESTful-API for Dedicated Serverfiles, Mods and Addons generates your informationen on the fly.
+The REST API for dedicated server files, mods, and add-ons generates information on the fly.
 
 ## Features
 
