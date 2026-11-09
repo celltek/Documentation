@@ -8,9 +8,9 @@ The REST API for dedicated server files, mods, and add-ons generates information
 ## Features
 
 - Simple and lightweight
-- Support for Linux Dedicated Gameserver
+- Support for Linux dedicated game servers
 - Useful information
-- Stay smart up-to-date
+- Stay up to date
 - Completely encrypted
 
 ## Requirements Web Server
@@ -28,7 +28,7 @@ The REST API for dedicated server files, mods, and add-ons generates information
 
 ## Requirements Service Server
 
-**!! NO SUPPORT FOR DEBIAN OR OTHER LINUX DISTRIBUTIONEN !!**
+**!! NO SUPPORT FOR DEBIAN OR OTHER LINUX DISTRIBUTIONS !!**
 
 **Dependencies**
 - OS: Ubuntu 24.04.3 LTS (Noble Numbat) [download iso](https://mirror.de.leaseweb.net/ubuntu-releases/)
